@@ -1,0 +1,86 @@
+blockquote.twitter-tweet {
+  display: inline-block;
+  font-family: "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
+  font-size: 9px;
+  line-height: 16px;
+  border-color: #eee #ddd #bbb;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  margin: 10px 5px;
+  padding: 0 16px 16px 16px;
+  max-width: 468px;
+  vertical-align:top;
+}
+
+blockquote.twitter-tweet p {
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 20px;
+  padding-top: 20px;
+}
+
+blockquote.twitter-tweet a {
+  color: inherit;
+  font-weight: normal;
+  text-decoration: none;
+  outline: 0 none;
+  color:blue;
+}
+
+blockquote.twitter-tweet a:hover,
+blockquote.twitter-tweet a:focus {
+  text-decoration: underline;
+}
+
+blockquote h5 {
+  font-weight:bold;
+}
+
+div.minimal-navbar { 
+  background-color:#0084b4;
+  color:white;
+}
+
+.minimal-navbar .input-group {
+  margin:8px 32px;
+}
+
+.minimal-navbar button img {
+  height:18px;
+}
+
+blockquote.twitter-tweet .author {
+  font-weight:bold
+}
+
+blockquote.twitter-tweet .date {
+  margin-left: 10px;
+}
+i.fa {
+  font-size:20pt;
+}
+i.fa.fa-meh-o {
+  color: #DDC202;
+}
+i.fa.fa-frown-o {
+  color: darkred;
+}
+i.fa.fa-smile-o {
+  color: darkgreen;
+}
+
+.rating-box {
+  border-left:solid 1px darkgrey;
+  margin:10px 0;
+  text-align:center;
+}
+h2 {
+  margin-left:20px;
+}
+
+.statistics, .tweet-list {
+  margin-left:20px !important;
+}
+
