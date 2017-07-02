@@ -33,11 +33,11 @@ back to the WebSocket server thread and eventually the frontend.
 
 # Usage
 
-Once the build is and Docker-compose is ready, the frontend should be running
+Once the build and Docker-compose is ready, the frontend should be running
 on `localhost:1337` and the backend WebSocket listener should be running
 on `localhost:9000`.
 
-Then just open a browser and head to `localhost:1337` and enjoy!
+Then just open a browser and head to `http://localhost:1337` and enjoy!
 
 **NOTE: the Twitter API has a usage limit of a few hundred requests per 15 minutes and each search requires 10 separate requests.** 
 
