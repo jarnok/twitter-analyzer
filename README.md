@@ -44,7 +44,9 @@ Then just open a browser and head to `http://localhost:1337` and enjoy!
 # Known issues
 
 - Tests are currently missing
+- Warn messages in Webpack build
+- Non-fatal error message on backend WebSocket server thread startup
 - Some issues with special Unicode characters in tweets
 - Only supports tweets written in English (others are filtered)
 - No icon/animation to notify user a request is being processed
-- Styles are not optimized for low-resolution screens
+- Styles not optimized for low-resolution screens
